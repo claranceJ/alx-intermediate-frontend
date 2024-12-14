@@ -1,0 +1,11 @@
+$zeroMargin_Padding : 0px;
+
+body {
+    margin: $zeroMargin_Padding;
+    padding: $zeroMargin_Padding;
+
+    p {
+        margin: 10px;
+
+    }
+}
