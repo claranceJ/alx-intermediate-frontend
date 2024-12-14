@@ -1,0 +1,12 @@
+
+-----------------------STEP 1-------------------------
+
+Install node version 20.16 as follows using the command:
+  
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+------------------------STEP 2------------------------
+
+Install SASS by using the following command if you already have node installed:
+
+    npm install sass -v 3.7.4
